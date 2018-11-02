@@ -3,3 +3,4 @@
 - 中文文本摘要
     - mmr
     - TextRank
+    - tfidf
